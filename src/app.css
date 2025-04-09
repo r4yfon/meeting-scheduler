@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist&display=swap');
+@import 'tailwindcss';
+
+:root {
+	font-family: 'Geist', sans-serif;
+}

@@ -27,13 +27,13 @@
 
 <nav class="w-full bg-white shadow-md">
 	<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-		<div class="flex h-16 items-center justify-between">
+		<div class="flex h-12 items-center justify-between md:h-16">
 			<!-- Logo -->
 			<div class="flex-shrink-0">
 				<a href="/" class="flex items-center">
 					<!-- Placeholder logo - replace with your actual logo -->
 					<div
-						class="flex h-10 w-10 items-center justify-center rounded-lg bg-blue-600 font-bold text-white"
+						class="flex h-8 w-8 items-center justify-center rounded-lg bg-blue-600 font-bold text-white md:h-10 md:w-10"
 					>
 						MS
 					</div>
@@ -98,13 +98,13 @@
 						href="/create"
 						class="rounded-md px-3 py-2 text-gray-700 hover:bg-gray-100 hover:text-blue-600"
 					>
-						Create New Meeting Schedule
+						Create New Schedule
 					</a>
 					<a
 						href="/account"
 						class="rounded-md px-3 py-2 text-gray-700 hover:bg-gray-100 hover:text-blue-600"
 					>
-						Account Information
+						Account
 					</a>
 				</div>
 			</div>
@@ -129,13 +129,13 @@
 				href="/create"
 				class="block rounded-md px-3 py-2 text-gray-700 hover:bg-gray-100 hover:text-blue-600"
 			>
-				Create New Meeting Schedule
+				Create New Schedule
 			</a>
 			<a
 				href="/account"
 				class="block rounded-md px-3 py-2 text-gray-700 hover:bg-gray-100 hover:text-blue-600"
 			>
-				Account Information
+				Account
 			</a>
 		</div>
 	</div>
